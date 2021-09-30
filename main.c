@@ -84,7 +84,7 @@ int main(int argc, char *argv[])
     /* Length of the Key */
         klen = strlen(argv[1]) / 2,
     /* Length of the tweak */
-        tlen = 4 / 2,
+        tlen = 6 / 2,
         radix = 10;
 
     unsigned int x[100], y[xlen], tmp, key_in_decimal[100], ccn_in_ascii[100];
