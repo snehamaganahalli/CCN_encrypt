@@ -25,10 +25,10 @@ i.e. ./main (AES KEY) (Credit Card number) (0/1: 1 to Encrypt 0 to Decrypt)
 
 
 ===============
-**
-Name: Sneha M R
 
-Roll Number: CS21M522
+**Name: Sneha M R**
 
-Registered Mail ID: sneha.maganahalli@gmail.com
-**
+**Roll Number: CS21M522**
+
+**Registered Mail ID: sneha.maganahalli@gmail.com**
+
