@@ -22,3 +22,13 @@ make
 ./main "2B7E151628AED2A6ABF7158809CF4F3C" "1234567890123456" "1"
 
 i.e. ./main (AES KEY) (Credit Card number) (0/1: 1 to Encrypt 0 to Decrypt)
+
+
+===============
+**
+Name: Sneha M R
+
+Roll Number: CS21M522
+
+Registered Mail ID: sneha.maganahalli@gmail.com
+**
