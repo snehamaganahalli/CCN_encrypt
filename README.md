@@ -30,5 +30,3 @@ i.e. ./main (AES KEY) (Credit Card number) (0/1: 1 to Encrypt 0 to Decrypt)
 
 **Roll Number: CS21M522**
 
-**Registered Mail ID: sneha.maganahalli@gmail.com**
-
